@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: customer_360
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+
+  - name: sales_summary
+    columns:
+      - name: order_date
+        tests:
+          - not_null

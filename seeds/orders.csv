@@ -1,0 +1,16 @@
+order_id,customer_id,product_id,product_name,category,amount,quantity,discount,payment_method,order_status,order_date,city,country
+1,101,1001,Phone,Electronics,500,1,50,Credit Card,Delivered,2024-01-01,Chennai,India
+2,102,1002,Laptop,Electronics,700,1,0,UPI,Shipped,2024-01-02,Bangalore,India
+3,101,1003,Shoes,Fashion,300,2,20,Debit Card,Delivered,2024-01-03,Mumbai,India
+4,103,1001,Phone,Electronics,900,1,100,Credit Card,Returned,2024-01-04,Delhi,India
+5,104,1002,Laptop,Electronics,1200,1,150,UPI,Delivered,2024-01-05,Hyderabad,India
+6,105,1004,T-Shirt,Fashion,200,3,10,COD,Delivered,2024-01-06,Pune,India
+7,106,1005,Headphones,Electronics,150,2,5,Credit Card,Shipped,2024-01-07,Kolkata,India
+8,107,1006,Watch,Accessories,400,1,40,UPI,Delivered,2024-01-08,Chennai,India
+9,108,1007,Bag,Fashion,600,1,60,Debit Card,Cancelled,2024-01-09,Bangalore,India
+10,109,1008,Tablet,Electronics,800,1,80,Credit Card,Delivered,2024-01-10,Mumbai,India
+11,110,1009,Camera,Electronics,1500,1,200,UPI,Delivered,2024-01-11,Delhi,India
+12,101,1002,Laptop,Electronics,750,1,50,Credit Card,Delivered,2024-01-12,Chennai,India
+13,102,1003,Shoes,Fashion,320,1,30,UPI,Delivered,2024-01-13,Bangalore,India
+14,103,1004,T-Shirt,Fashion,220,2,15,COD,Returned,2024-01-14,Delhi,India
+15,104,1005,Headphones,Electronics,180,1,10,Credit Card,Delivered,2024-01-15,Hyderabad,India
